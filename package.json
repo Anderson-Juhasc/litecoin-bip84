@@ -1,17 +1,17 @@
 {
-  "name": "dogecoin-bip84",
+  "name": "litecoin-bip84",
   "version": "0.0.3",
-  "description": "Creates BIP84 keychains for Dogecoin mainnet and testnet",
+  "description": "Creates BIP84 keychains for Litecoin mainnet and testnet",
   "main": "./src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Anderson-Juhasc/dogecoin-bip84"
+    "url": "https://github.com/Anderson-Juhasc/litecoin-bip84"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "dogecoin",
+    "litecoin",
     "hd",
     "wallet",
     "bip44",
