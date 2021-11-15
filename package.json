@@ -1,6 +1,6 @@
 {
   "name": "litecoin-bip84",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Creates BIP84 keychains for Litecoin mainnet and testnet",
   "main": "./src/index.js",
   "repository": {
